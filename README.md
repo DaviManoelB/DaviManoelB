@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://github-readme-activity-graph.vercel.app/graph?username=DaviManoelB)](https://github.com/DaviManoelB/github-readme-activity-graph)
+[![DaviManoelB's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaviManoelB)](https://github.com/DaviManoelB/github-readme-activity-graph)
 
 <!--
 **DaviManoelB/DaviManoelB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
