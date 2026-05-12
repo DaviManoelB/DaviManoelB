@@ -6,7 +6,6 @@
 - 💻 Interessado em desenvolvimento de software e ciência de dados.
 - 📚 Comprometido com o aprendizado contínuo e aprimoramento das minhas habilidades técnicas.
 - 📫 Contate-me no email: davibernardes2005@gmail.com
-- 
 ## 🧑‍💻 Competências
 
 - 🖥️ Desenvolvimento:
