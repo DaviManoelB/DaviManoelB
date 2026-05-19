@@ -24,6 +24,7 @@
 
 - [Midas - Organizacao Financeira](https://github.com/DaviManoelB/Midas): Projeto de organzização financeira, gerenciamento de carteiras e metas na Web
 - [Projetos Pequenos](https://github.com/DaviManoelB/Treino): Pequenos projetos desenvolvidos em diversas linguagens para treinar programação e desenvolvimento de feramentas de uso próprio.
+- [Sabor & Magia](https://github.com/Gmbferreira/Comp-Onboarding): Desenvolvimento inicial de um site para um restaurante vegano fictício com funcionalidades de cardápio, cadastro de usuário e CRUD de pratos.
 
 ## 🔗 Links
 
